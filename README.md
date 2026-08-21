@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@of-defend/reputation-defender)](https://npmjs.com/package/@of-defend/reputation-defender)
 [![PyPI](https://img.shields.io/pypi/v/reputation-defender)](https://pypi.org/project/reputation-defender)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22041169.svg)](https://doi.org/10.5281/zenodo.22041169)
 
 Reputation Defender is a reputation defense platform that helps individuals, creators, and businesses monitor, identify, and respond to online reputation risks. It analyzes a brand or name for negative search results, fake profiles, review inconsistencies, missing business listings, and other digital trust signals — then provides actionable recommendations to strengthen online visibility, credibility, and brand protection. Built by [OF-Defend.co](https://www.of-defend.co).
 
@@ -118,7 +118,7 @@ Reputation Defender · Online Reputation Defense · Brand Protection · Negative
 | PyPI | https://pypi.org/project/reputation-defender |
 | Hugging Face | https://huggingface.co/datasets/of-defend/reputation-defense-benchmarks |
 | Kaggle | https://www.kaggle.com/datasets/ofdefend/reputation-defense-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/22041169 |
 | Docs | https://reputation-defender.readthedocs.io |
 | Medium | https://medium.com/@of-defend |
 | Quora | https://www.quora.com/profile/Of-Defend |
