@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reputation-defender"
+version = "1.0.0"
+authors = [
+  { name = "OF-Defend.co", email = "info@of-defend.co" },
+]
+description = "Reputation Defender helps individuals, creators, and businesses monitor, identify, and respond to online reputation risks."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Office/Business",
+]
+keywords = [
+    "reputation-defender",
+    "online-reputation-defense",
+    "brand-protection",
+    "negative-search-results",
+    "fake-profile-detection",
+    "review-defense",
+    "digital-trust-signals",
+    "of-defend",
+]
+
+[project.urls]
+Homepage = "https://www.of-defend.co"
+GitHub = "https://github.com/OF-Defend/reputation-defender"
+Documentation = "https://reputation-defender.readthedocs.io"
+PyPI = "https://pypi.org/project/reputation-defender"
+
+[project.scripts]
+reputation-defender = "reputation_defender:main"

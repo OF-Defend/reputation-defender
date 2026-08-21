@@ -1,0 +1,21 @@
+site_name: Reputation Defender
+site_url: https://reputation-defender.readthedocs.io
+site_description: Reputation defense platform for monitoring, identifying, and responding to online reputation risks — brand protection, fake profile detection, and digital trust signals.
+site_author: OF-Defend.co
+
+repo_name: OF-Defend/reputation-defender
+repo_url: https://github.com/OF-Defend/reputation-defender
+
+theme:
+  name: material
+  palette:
+    primary: red
+    accent: orange
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

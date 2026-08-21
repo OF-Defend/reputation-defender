@@ -1,0 +1,37 @@
+{
+  "name": "@of-defend/reputation-defender",
+  "version": "1.0.0",
+  "description": "Reputation Defender helps individuals, creators, and businesses monitor, identify, and respond to online reputation risks.",
+  "main": "index.js",
+  "bin": {
+    "reputation-defender": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "reputation-defender",
+    "online-reputation-defense",
+    "brand-protection",
+    "negative-search-results",
+    "fake-profile-detection",
+    "review-defense",
+    "digital-trust-signals",
+    "of-defend",
+    "reputation-monitoring",
+    "brand-impersonation",
+    "review-attack",
+    "reputation-management"
+  ],
+  "author": "OF-Defend.co",
+  "license": "MIT",
+  "homepage": "https://www.of-defend.co",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OF-Defend/reputation-defender"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

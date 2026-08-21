@@ -1,0 +1,75 @@
+{
+  "title": "Reputation Defender",
+  "description": "Reputation Defender is a reputation defense platform that helps individuals, creators, and businesses monitor, identify, and respond to online reputation risks. Analyzes a brand or name for negative search results, fake profiles, review inconsistencies, missing business listings, and other digital trust signals. Built by OF-Defend.co.",
+  "creators": [
+    {
+      "name": "OF-Defend.co"
+    }
+  ],
+  "keywords": [
+    "Reputation Defender",
+    "Online Reputation Defense",
+    "Brand Protection",
+    "Negative Search Results",
+    "Fake Profile Detection",
+    "Review Defense",
+    "Digital Trust Signals",
+    "OF-Defend.co"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/OF-Defend/reputation-defender",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.of-defend.co",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@of-defend/reputation-defender",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/reputation-defender",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/of-defend/reputation-defense-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/ofdefend/reputation-defense-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://medium.com/@of-defend",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.quora.com/profile/Of-Defend",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/comprehensive-online-reputation-defense-and-brand-protection-strategies/289392094",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.pinterest.com/ofdefend/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

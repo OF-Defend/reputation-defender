@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Reputation Defender",
+  "description": "A reputation defense platform that helps individuals, creators, and businesses monitor, identify, and respond to online reputation risks.",
+  "url": "https://www.of-defend.co",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "OF-Defend.co",
+    "url": "https://www.of-defend.co",
+    "sameAs": [
+      "https://www.of-defend.co",
+      "https://github.com/OF-Defend",
+      "https://npmjs.com/package/@of-defend/reputation-defender",
+      "https://pypi.org/project/reputation-defender",
+      "https://huggingface.co/datasets/of-defend/reputation-defense-benchmarks",
+      "https://www.kaggle.com/datasets/ofdefend/reputation-defense-benchmarks",
+      "https://of-defend.github.io/reputation-defender/",
+      "https://medium.com/@of-defend",
+      "https://www.quora.com/profile/Of-Defend",
+      "https://www.slideshare.net/slideshow/comprehensive-online-reputation-defense-and-brand-protection-strategies/289392094",
+      "https://www.pinterest.com/ofdefend/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/OF-Defend/reputation-defender",
+  "keywords": [
+    "Reputation Defender",
+    "Online Reputation Defense",
+    "Brand Protection",
+    "Negative Search Results",
+    "Fake Profile Detection",
+    "Review Defense",
+    "Digital Trust Signals",
+    "OF-Defend.co"
+  ]
+}
