@@ -1,0 +1,21 @@
+id,brand,defense_type,risk_score,trust_signal_score,search_defense_score,profile_defense_score,review_defense_score,listing_defense_score,overall_defense_index,priority_action,search_results_score,social_profiles_score,review_platforms_score,business_listings_score,threat_type,industry,notes
+1,Personal Brand,full-defense,84,80,82,76,86,80,81,Profile Defense,82,76,86,80,Fake Profiles,Personal Brand,Profile impersonation detected
+2,Restaurant Chain,review-defense,86,82,84,80,76,82,82,Review Defense,84,80,76,82,Review Attack,Food & Beverage,Coordinated review attack
+3,SaaS Platform,search-defense,82,80,76,80,84,82,81,Search Defense,76,80,84,82,Negative Search,SaaS,Negative press ranking
+4,Creator Brand,profile-defense,84,78,82,74,86,80,81,Profile Defense,82,74,86,80,Impersonation,Creator Economy,Social impersonation detected
+5,E-commerce Brand,full-defense,86,82,84,80,82,76,82,Listing Defense,84,80,82,76,Missing Listings,Retail,Directory gaps identified
+6,Healthcare Clinic,listing-defense,84,80,82,80,86,76,81,Listing Defense,82,80,86,76,Missing Listings,Healthcare,Local listing gaps
+7,Law Firm,trust-defense,88,76,84,80,84,82,82,Trust Signal,84,80,84,82,Trust Gaps,Legal,Trust signal gaps
+8,Tech Startup,full-defense,82,80,78,76,84,82,80,Profile Defense,78,76,84,82,Fake Profiles,Technology,Multiple threat types
+9,Hospitality Brand,review-defense,84,80,82,78,74,82,80,Review Defense,82,78,74,82,Review Attack,Hospitality,Negative review cluster
+10,Financial Advisor,search-defense,88,78,76,80,84,82,81,Search Defense,76,80,84,82,Negative Search,Finance,Negative content ranking
+11,Fitness Brand,full-defense,84,80,82,78,86,80,82,Profile Defense,82,78,86,80,Fake Profiles,Health & Fitness,Profile clone detected
+12,Education Platform,trust-defense,82,76,82,80,84,82,81,Trust Signal,82,80,84,82,Trust Gaps,EdTech,Credibility signal gaps
+13,Real Estate Agency,listing-defense,86,82,84,80,84,74,82,Listing Defense,84,80,84,74,Missing Listings,Real Estate,Property listing gaps
+14,Digital Agency,full-defense,84,80,82,76,82,82,81,Profile Defense,82,76,82,82,Impersonation,Marketing,Agency impersonation
+15,Nonprofit Org,search-defense,80,78,74,80,84,82,80,Search Defense,74,80,84,82,Negative Search,Nonprofit,Negative narrative online
+16,Insurance Brand,review-defense,86,80,82,80,76,82,81,Review Defense,82,80,76,82,Review Attack,Insurance,Fake review campaign
+17,Beauty Brand,profile-defense,82,80,82,74,84,80,80,Profile Defense,82,74,84,80,Fake Profiles,Beauty,Instagram clone profiles
+18,Retail Brand,full-defense,84,80,82,78,82,76,80,Listing Defense,82,78,82,76,Missing Listings,Retail,Local listing absent
+19,Tech Agency,trust-defense,86,74,82,80,84,82,81,Trust Signal,82,80,84,82,Trust Gaps,Technology,Trust signal weakness
+20,Professional Brand,full-defense,84,80,80,78,84,82,81,Profile Defense,80,78,84,82,Impersonation,Professional Services,LinkedIn impersonation
